@@ -6,8 +6,16 @@ This project showcases how a corporate network connects to the Internet. It demo
 - **OSPF Core:** High-speed internal routing so all office routers can talk to each other.
 - **Static Routing:** Manual paths for backup and specific traffic control.
 
-## Network Topology
-![Network Diagram](topology.png)
+## BGP Topology
+![Network Diagram](bgp.PNG)
+*(This shows my router layout and IP addressing scheme)*
+
+## OSPF Topology
+![Network Diagram](ospf.PNG)
+*(This shows my router layout and IP addressing scheme)*
+
+## STATIC ROUTING Topology
+![Network Diagram](static.PNG)
 *(This shows my router layout and IP addressing scheme)*
 
 ## Skills Demonstrated
